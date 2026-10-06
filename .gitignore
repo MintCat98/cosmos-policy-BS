@@ -1,2 +1,6 @@
 /.cuda-name
 /build
+
+# Python bytecode (missing upstream; added on the bodyschema branch)
+__pycache__/
+*.pyc
